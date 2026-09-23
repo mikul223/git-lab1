@@ -1,1 +1,5 @@
+# версия из feature-ветки
+feature: conflict test version
+
+# версия из main
 version from main
