@@ -1,2 +1,1 @@
-# Это вымышленный токен для проверки TruffleHog
-GITHUB_TOKEN = "ghp_0123456789abcdefghijklmnopqrstuvwxyz"
+GITHUB_TOKEN=ghp_7vN3kQ9mR2xT8pL4cW6zA1dF5sH0jU
