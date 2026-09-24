@@ -1,3 +1,1 @@
-# ВНИМАНИЕ: это тестовый фейковый токен, не настоящий!
-GITHUB_TOKEN = "ghp_1234567890abcdefghijklmnopqrstuvwxyz"
-AWS_ACCESS_KEY = "AKIAIOSFODNN7EXAMPLE"
+GITHUB_TOKEN=ghp_7vN3kQ9mR2xT8pL4cW6zA1dF5sH0jU
